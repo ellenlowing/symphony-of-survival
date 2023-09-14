@@ -8,9 +8,9 @@ salaryman. Play on [itch](https://ellenlowing.itch.io/symphony-of-survival)!
 ## Gameplay
 Gameplay is similar to Taiko no Tatsujin, but the beats are spawned in a circle rather than on a straight line.
 
-Hit left arrow key [←] for green color type beat. 
-Hit right arrow key [→] for blue color type beat. 
-Hold either key for yellow color type beat.
+- Hit left arrow key [←] for green color type beat.
+- Hit right arrow key [→] for blue color type beat.
+- Hold either key for yellow color type beat.
 
 ## Programming
 To spawn beats in sync with the music, you need to keep track of the song position in beats. To obtain that, you get the current time of the audio system in seconds and convert it to beats using the provided BPM of song.
